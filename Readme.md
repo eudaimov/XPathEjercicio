@@ -40,5 +40,28 @@ You need to study
 
 No sé si esto realmente funciona
 
+Ahora voy a escribir un texto con linea debajo
+* * *
+
+Otra linea
+---
+
+Esto de aquí es un enlace directo <https://google.es>
+
+Y esto uno no tan directo [Google](https://www.google.es) , otra forma diferente
+
+`Lineas de código`
+`Estas comillas en el teclado pertene al lado de la p y luego espacio`
+
+    for(int i=0; x<100; x++){
+     System.out.printl("Hola Mundo nº "+ i +".");
+     }
+     Esto se consigue dejando cuatro espacios
+     
+ Para una imagen debes escribir esto \!\[Alt de la Imagen](ruta relativa)
+
+
+
+
 
 
