@@ -1,6 +1,6 @@
-#MarkDown#
+# MarkDown#
 
-##Como escribir dar estilos al Texto##
+## Como escribir dar estilos al Texto##
 
 * En negrita: **Texto en negrita**
 * En cursiva *Texto en cursiva*
